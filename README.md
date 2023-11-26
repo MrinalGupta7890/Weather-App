@@ -9,3 +9,4 @@ In this weather app i added one search box where user can enter the city name an
 If the user search is invalid then it show an error message - Invalid City Name.
 
 Use It :- https://mrinalgupta7890.github.io/Weather-App/
+
